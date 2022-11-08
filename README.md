@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Minh-Khoa, a problem solver and language learner/teacher for German and English. Btw, I know some programming languages.
+- 👀 I’m interested in developing low-maintainance-effort, small, high-value objects, with possibility to integrate across different (programming) language borders, possibly with a good interface
+- 🌱 I’m currently learning to get better as an inventor and prototyper, as well as at the system planning
+- 💞️ I’m looking to collaborate on professional (PC)game-development, 'cause it's teaching me the most and can be easily tested ;)
+- 📫 How to reach me: minhkhoa.ngo92@gmail.com
